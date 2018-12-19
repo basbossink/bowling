@@ -1,7 +1,9 @@
 [package]
 name = "bowling"
 version = "0.1.0"
-authors = ["Bas Bossink <bas.bossink@divverence.com>"]
+authors = ["Bas Bossink <bas.bossink@gmail.com>"]
 edition = "2018"
+license = "BSD-2-Clause"
+readme = "README.md"
 
 [dependencies]
